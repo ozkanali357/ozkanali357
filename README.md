@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm ALi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+<img align="right" alt="ronaldo" width="400" src="https://media1.giphy.com/media/ocXjZoA4Eg6D01QA3r/200w.gif?cid=6c09b952opw8wm8rztohcvwv5otybkp0kpn8fqc5welg8x1h&ep=v1_gifs_search&rid=200w.gif&ct=g">
+  
 - 🔭 I’m currently working on **my self**
 
 <h3 align="left">Connect with me:</h3>
