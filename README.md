@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm ALi</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate computer and data science student from the University of Helsinki.</h3>
   
 - 🔭 I’m currently working on **ITC**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">LinkedIn: www.linkedin.com/in/ali-onur-özkan-62511a258​</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
