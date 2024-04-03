@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **ITC**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">LinkedIn: www.linkedin.com/in/ali-onur-özkan-62511a258​</h3>
+<p align="left"><p align="left"> <a href="www.linkedin.com/in/ali-onur-özkan-62511a258​" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
