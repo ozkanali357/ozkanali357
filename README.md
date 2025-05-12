@@ -83,6 +83,3 @@ Minor in Information & Service Business (2024)
 - 🏅 FRC Robotics Excellence in Engineering Award
 - 📚 National Short Story Writing Champion (Turkey)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozkanali357&color=blue&style=flat" alt="Profile views">
-</p>
