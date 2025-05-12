@@ -83,13 +83,6 @@ Minor in Information & Service Business (2024)
 - 🏅 FRC Robotics Excellence in Engineering Award
 - 📚 National Short Story Writing Champion (Turkey)
 
----
-
-### 📫 Let's Connect!
-- 💼 LinkedIn: [Ali Onur Özkan](https://www.linkedin.com/in/ali-onur-%C3%B6zkan-62511a258/)
-- 📧 Email: [Your Professional Email]
-- 🌐 Personal Website: [Portfolio URL]
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ozkanali357&color=blue&style=flat" alt="Profile views">
 </p>
