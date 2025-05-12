@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-onur-%C3%B6zkan-62511a258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:[alionurozkan@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
