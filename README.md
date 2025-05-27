@@ -75,11 +75,3 @@ B.Sc in Computer & Data Science (2023-2026)
 **Aalto University**  
 Minor in Information & Service Business (2024)  
 📈 Courses: Strategic IT Management, Data-Driven Decision Making
-
----
-
-### 🏆 Achievements
-- 🥇 Best Start Award - AaltoES Hackathon 2025
-- 🏅 FRC Robotics Excellence in Engineering Award
-- 📚 National Short Story Writing Champion (Turkey)
-
